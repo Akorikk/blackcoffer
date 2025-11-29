@@ -1,7 +1,7 @@
 # blackcoffer
 # Blackcoffer_Assignment
 
-** please delete the output.xlsx and run the main file blackcoffer_assignment.py but befor that activate the env name black conda activate black i have create with python 3.9
+** please delete the output.xlsx only if it is created and run the main file python blackcoffer_assignment.py but befor that activate the env name black conda activate black i have create with python 3.9
 
 # Overview 
 This project is an end-to-end Text Extraction and NLP Analysis Pipeline, built as part of the Blackcoffer Data Scientist assignment.
